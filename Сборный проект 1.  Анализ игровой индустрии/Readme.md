@@ -8,3 +8,6 @@
 
 Используемые библиотеки
 pandas, matplotlib, seaborn, stats
+
+
+Статус проекта: завершен
