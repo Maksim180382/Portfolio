@@ -2,10 +2,14 @@
 
 ## [*Исследование объявлений о продаже квартир в СПБ и ЛО*](https://mail.google.com/mail/u/0/#inbox)
 
+## [*Исследование объявлений о продажО*](https://github.com/Maksim180382/Portfolio/tree/main/)
 
 
 
 
+https://github.com/avitaminoz11/yandex-praktikum-projects/tree/master/reliability-research
+
+https://github.com/Maksim180382/Portfolio/tree/main/
 
 
 
