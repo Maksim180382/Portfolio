@@ -13,7 +13,7 @@
 | 5.   | [*Принятие решений в бизнесе*](https://github.com/Maksim180382/Portfolio/tree/main/Анализ%20результатов%20АВ-тестов%20в%20интернет%20магазине)|  | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 6.   | [*Исследование стартапа, занимающегося продажей продуктов питания*](https://github.com/Maksim180382/Portfolio/tree/main/Сборный%20проект%202.%20%20Анализ%20поведения%20пользователей%20мобильного%20приложения) |             | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 7.   | [*Исследование рынка общественного питания г. Москвы.*](https://github.com/Maksim180382/Portfolio/tree/main/Анализ%20рынка%20заведений%20общественного%20питания%20г.%20Москвы) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib|
-| 8.   | [*Создание дашборд по данным о конференциях TED*](https://github.com/Maksim180382/Portfolio/tree/main/Построение%20дашбордов%20в%20Tableau) |             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 8.   | [*Создание дашборда по данным о конференциях TED*](https://github.com/Maksim180382/Portfolio/tree/main/Построение%20дашбордов%20в%20Tableau) |             | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 9.   | [*Анализ оттока клиентов банка*](https://github.com/Maksim180382/Portfolio/tree/main/Выпускной%20проект.%20Анализ%20оттока%20клиентов%20банка) |           | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 10.  | [*Исследование книжного сервиса. SQL*](https://github.com/Maksim180382/Portfolio/tree/main/Исследование%20книжного%20сервиса) |           | python, pandas, numpy, nltk, sklearn, CatBoost |
 
